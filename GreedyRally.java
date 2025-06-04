@@ -13,7 +13,7 @@ public class GreedyRally {
         int n = paradas.size();
 
         while (i < n) {
-            iteracoes[0]++;  // Contador de iterações
+            iteracoes[0]++;  
 
             int proximaParada = i;
             // Avança até o ponto mais distante possível sem ultrapassar 'd'
